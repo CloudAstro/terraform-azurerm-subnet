@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/CloudAstro/terraform-azurerm-subnet/compare/v1.0.0...v1.1.0) (2026-06-18)
+
+
+### Features
+
+* update tf and provider version ([53e59f4](https://github.com/CloudAstro/terraform-azurerm-subnet/commit/53e59f40b4c6e956d30b887b20ab2ab5aac87afd))
+
 ## 1.0.0 (2025-04-29)
 
 
